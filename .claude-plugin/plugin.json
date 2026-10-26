@@ -1,0 +1,10 @@
+{
+  "name": "social-caption-publish",
+  "description": "Caption & publishing package for TikTok, Instagram Reels, and Facebook Reels: platform-rule research, reasoned hashtags, per-platform captions, rubric QC, approval before publish. Brand- and language-neutral.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ari Gunawan Jatmiko"
+  },
+  "repository": "https://github.com/arigunawanj/social-caption-publish",
+  "license": "MIT"
+}

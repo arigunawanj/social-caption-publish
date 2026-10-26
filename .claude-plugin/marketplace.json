@@ -1,0 +1,16 @@
+{
+  "name": "social-caption-publish",
+  "owner": {
+    "name": "Ari Gunawan Jatmiko"
+  },
+  "plugins": [
+    {
+      "name": "social-caption-publish",
+      "source": "./",
+      "description": "Caption & publishing package for TikTok, Instagram Reels, and Facebook Reels: platform-rule research, reasoned hashtags, per-platform captions, rubric QC, approval before publish. Brand- and language-neutral."
+    }
+  ],
+  "metadata": {
+    "description": "Caption & publishing package for TikTok, Instagram Reels, and Facebook Reels: platform-rule research, reasoned hashtags, per-platform captions, rubric QC, approval before publish. Brand- and language-neutral."
+  }
+}

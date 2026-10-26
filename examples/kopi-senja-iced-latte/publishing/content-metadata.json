@@ -1,0 +1,119 @@
+{
+  "brand": {
+    "name": "Kopi Senja",
+    "handle": "@kopisenja",
+    "branded_hashtags": [
+      "#kopisenja"
+    ],
+    "language": "en",
+    "region": "MY",
+    "persona": "warm, playful, no hype",
+    "banned_words": [
+      "cheapest",
+      "best in Malaysia"
+    ],
+    "selling_mode": "soft"
+  },
+  "title": "Café-style Iced Latte at Home",
+  "content_file": "iced-latte-30s.mp4",
+  "content_type": "short-video",
+  "goal": "education",
+  "approach": "curiosity (TT), educational checklist (IG), storytelling-lite (FB)",
+  "audience": "young adults in Malaysia making coffee at home",
+  "main_message": "Pour order (ice → milk → coffee) and coffee ice cubes prevent watery iced lattes",
+  "rules_verified_at": "2026-10-26",
+  "sources": [
+    "references/caption-guide.md"
+  ],
+  "platforms": {
+    "tiktok": {
+      "caption_file": "tiktok-caption.md",
+      "keywords": {
+        "primary": "iced latte at home",
+        "secondary": [
+          "home cafe",
+          "layered iced latte",
+          "coffee recipe"
+        ]
+      },
+      "hashtags": [
+        "#icedlatte",
+        "#homecafe",
+        "#coffeerecipe",
+        "#kopisenja"
+      ],
+      "cover_title": "Iced Latte That Isn’t Watery",
+      "cta": "Light discussion question about milk choice — relevant and easy to answer.",
+      "score": {
+        "relevance": 24,
+        "hook": 18,
+        "readability": 14,
+        "discoverability": 13,
+        "platform_fit": 14,
+        "cta": 8,
+        "total": 91
+      },
+      "hard_checks_passed": true
+    },
+    "instagram": {
+      "caption_file": "instagram-caption.md",
+      "keywords": {
+        "primary": "iced latte recipe",
+        "secondary": [
+          "home cafe",
+          "layered latte",
+          "moka pot coffee"
+        ]
+      },
+      "hashtags": [
+        "#icedlatte",
+        "#homecafe",
+        "#coffeerecipe",
+        "#kopisenja"
+      ],
+      "cover_title": "3-Step Layered Iced Latte",
+      "cta": "Save as a recipe + soft mention of beans (link in bio), matching the video ending.",
+      "score": {
+        "relevance": 24,
+        "hook": 17,
+        "readability": 15,
+        "discoverability": 14,
+        "platform_fit": 14,
+        "cta": 9,
+        "total": 93
+      },
+      "hard_checks_passed": true
+    },
+    "facebook": {
+      "caption_file": "facebook-caption.md",
+      "keywords": {
+        "primary": "iced coffee at home",
+        "secondary": [
+          "iced latte",
+          "home cafe"
+        ]
+      },
+      "hashtags": [
+        "#icedlatte",
+        "#homecafe"
+      ],
+      "cover_title": "Fix Watery Iced Coffee",
+      "cta": "Open question about their own method — meaningful discussion, no bait.",
+      "score": {
+        "relevance": 24,
+        "hook": 16,
+        "readability": 15,
+        "discoverability": 12,
+        "platform_fit": 14,
+        "cta": 8,
+        "total": 89
+      },
+      "hard_checks_passed": true
+    }
+  },
+  "analytics": {
+    "published_at": {},
+    "metrics": {},
+    "notes": ""
+  }
+}

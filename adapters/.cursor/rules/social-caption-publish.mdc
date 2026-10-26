@@ -1,0 +1,5 @@
+---
+description: Social captions, hashtags and publishing packages for TikTok, Instagram Reels, Facebook Reels
+alwaysApply: false
+---
+When the user asks for captions, hashtags, post copy, or a publishing package, read `skills/social-caption-publish/SKILL.md` and follow it. Trigger selectively, not for every code edit.
